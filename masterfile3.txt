@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 master file 3(changes from local master)
+
+master file 3 (changed in remote)
